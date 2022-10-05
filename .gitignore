@@ -1,4 +1,1 @@
-/book/
-/examples/target/
-/examples/Cargo.lock
-target
+**/target
